@@ -7,7 +7,6 @@
 **Name:** Mostafa Amar **Role:** Software Architect **Expertise:** Swift developer and mentor, many years of experience, early adopter of all current state of the art technologies.
 
 ###### Development(Team)
-
 **Name:** Adel Emam **Role:** Backend Developer **Expertise:** Web Development Languages: Java and Python, Database and Cache: MySQL, MongoDB and Oracle.
 
 **Name:** Ahmed Helmy **Role:** Backend Developer **Expertise:** Server: Apache, Nginx, IIS servers and Microsoft IIS, API: REST and SOAP.
